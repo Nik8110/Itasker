@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_10003" data-name="Rectángulo 10003" width="26" height="26" transform="translate(315.75 761)" fill="#8a98a5" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_381" data-name="Enmascarar grupo 381" transform="translate(-315.75 -761)" clip-path="url(#clip-path)">
+    <path id="briefcase-check" d="M13.5,2.6h5.474a2.737,2.737,0,0,1,2.737,2.737V8.074h4.578a2.737,2.737,0,0,1,2.737,2.737V25.863A2.737,2.737,0,0,1,26.285,28.6H6.294a2.737,2.737,0,0,1-2.737-2.737V10.81A2.737,2.737,0,0,1,6.294,8.074H10.76V5.337A2.737,2.737,0,0,1,13.5,2.6m5.474,5.474V5.337H13.5V8.074h5.474M14.181,23.81,23.2,14.793,21.27,12.863l-7.088,7.075-2.86-2.846L9.392,19.021Z" transform="translate(312.513 758.4)" fill="#8a98a5"/>
+  </g>
+</svg>

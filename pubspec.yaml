@@ -1,0 +1,70 @@
+name: itasker
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_bloc:
+  flutter_screenutil:
+  flutter_gen: ^5.3.1
+  page_transition:
+  google_fonts:
+  smooth_page_indicator: ^1.1.0
+  flutter_svg: ^2.0.7
+  d_chart: ^2.6.2
+  syncfusion_flutter_charts: ^22.2.12
+  intl:
+  flutter_rating_bar: ^4.0.1
+  image_picker: ^1.0.4
+  google_maps_flutter: ^2.5.0
+  location:
+  bottom_picker: ^2.1.0
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  get:
+  currency_text_input_formatter: ^2.1.10
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  flutter_gen_runner:
+
+  flutter_lints: ^2.0.3
+flutter_gen:
+  output: lib/gen/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    flutter_svg: true
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+

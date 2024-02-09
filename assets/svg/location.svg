@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="placeholder_1_" data-name="placeholder (1)" width="24" height="24" transform="translate(46 756)" fill="#93378e"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_57828" data-name="Grupo 57828" transform="translate(-37 -747)">
+    <circle id="Elipse_3302" data-name="Elipse 3302" cx="21" cy="21" r="21" transform="translate(37 747)" fill="#f0eff5"/>
+    <g id="Enmascarar_grupo_420" data-name="Enmascarar grupo 420" clip-path="url(#clip-path)">
+      <path id="map-marker_3_" data-name="map-marker (3)" d="M14.4,13.8a3,3,0,1,1,3-3,3,3,0,0,1-3,3m0-11.4A8.4,8.4,0,0,0,6,10.8c0,6.3,8.4,15.6,8.4,15.6s8.4-9.3,8.4-15.6A8.4,8.4,0,0,0,14.4,2.4Z" transform="translate(43.6 753.6)" fill="#93378e"/>
+    </g>
+  </g>
+</svg>
